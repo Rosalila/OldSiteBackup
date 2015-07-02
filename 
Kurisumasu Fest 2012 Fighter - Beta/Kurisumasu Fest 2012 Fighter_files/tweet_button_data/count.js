@@ -1,0 +1,1 @@
+/**/__twttr.receiveCount({"count":0,"url":"http:\/\/rosalilastudio.com\/index.php\/pc-games\/79-kurisumasu-fest-2012-fighter\/"});

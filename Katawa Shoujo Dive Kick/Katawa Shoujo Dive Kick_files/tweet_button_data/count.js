@@ -1,0 +1,1 @@
+/**/__twttr.receiveCount({"count":4,"url":"http:\/\/rosalilastudio.com\/index.php\/pc-games\/71-katawashoujofighter\/"});
